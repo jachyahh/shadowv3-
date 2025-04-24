@@ -1,0 +1,12 @@
+shadow-v3-proxy/
+├── pages/
+│   ├── index.js          ← React UI
+│   └── api/
+│       └── proxy.js      ← Proxy backend
+├── public/
+│   └── favicon.ico       ← Optional icon (empty for now)
+├── styles/
+│   └── globals.css       ← Optional global styles
+├── package.json          ← Dependencies and scripts
+├── next.config.js        ← Next.js config
+└── README.md             ← Project instructions
